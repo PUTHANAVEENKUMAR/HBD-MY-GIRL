@@ -4,6 +4,8 @@ body {
   background-image: url('img2.png');
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
   font-size: 14px;
   font-family: sans-serif;
   color: white;
